@@ -29,8 +29,8 @@ global $CFG_TIPO;
 global $menu_sistema;
 
 $CFG_HOST = array('127.0.0.1:3307');
-$CFG_USER = array('administrador');
-$CFG_DBPWD = array('123456789');
+$CFG_USER = array('root');
+$CFG_DBPWD = array('');
 $CFG_DBASE = array('dbservidores');
 $CFG_TIPO = array('mysql');
 
